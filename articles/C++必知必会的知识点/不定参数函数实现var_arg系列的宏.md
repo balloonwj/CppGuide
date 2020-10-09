@@ -308,7 +308,7 @@ if ((uFlags & LOG_LEECHER) && !thePrefs.GetAntiLeecherLog())
   方法：
 
   ```
-  GreenValue = 0xCD1298 & 0x001100,
+  GreenValue = 0xCD1298 & 0x001200,
   ```
 
   这样就可以做到了。
