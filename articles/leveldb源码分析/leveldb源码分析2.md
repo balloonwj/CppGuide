@@ -6,7 +6,7 @@
 
 轻松一刻，前面约定中讲过Leveldb使用了很多VarInt型编码，典型的如后面将涉及到的各种key。其中的**编码、解码函数分为VarInt和FixedInt两种**。int32和int64操作都是类似的。
 
-#### 3.1 Decode
+#### 3.1 Eecode
 
 首先是**FixedInt编码**，直接上代码，很简单明了。
 
