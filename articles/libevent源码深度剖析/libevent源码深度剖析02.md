@@ -2,7 +2,7 @@
 
 Reactor模式
 
-前面讲到，整个libevent本身就是一个**Reactor**，因此本节将专门对Reactor模式进行必要的介绍，并列出libevnet中的几个重要组件和Reactor的对应关系，在后面的章节中可能还会提到本节介绍的基本概念。
+前面讲到，整个libevent本身就是一个**Reactor**，因此本节将专门对Reactor模式进行必要的介绍，并列出libevent中的几个重要组件和Reactor的对应关系，在后面的章节中可能还会提到本节介绍的基本概念。
 
 
 
