@@ -206,10 +206,11 @@
   <img src="https://contrib.rocks/image?repo=balloonwj/CppGuide" />
 </a>
 
+> 你也可以给该仓库提交修改内容，如果你的 PULL Requeset 被采纳，你的名字将会出现在贡献者列表中。
 
-> 如果您在阅读上述文章的过程中有任何问题或者建议，可以加我微信easy_coder交流。
+> 如果您在阅读上述文章的过程中有任何问题或者建议，可以加本仓库微信交流群交流，可以先微信 easy_coder，备注“CppGuide”，备注不对不加哦。
 
-> 本仓库QQ交流群：169315117
+> 本仓库备份QQ交流群：169315117
 
 Enjoy it!
 
