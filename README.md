@@ -198,6 +198,13 @@
 * [作者的故事](articles/作者的故事/README.md)
     * [我的 2019](articles/作者的故事/我的2019.md)
     * [我是如何年薪五十万的](articles/作者的故事/我是如何年薪五十万的.md)
+    
+
+## 贡献者
+
+<a href="https://github.com/balloonwj/CppGuide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=balloonwj/CppGuide" />
+</a>
 
 
 > 如果您在阅读上述文章的过程中有任何问题或者建议，可以加我微信easy_coder交流。
