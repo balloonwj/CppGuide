@@ -45,7 +45,7 @@
  7    while (true)
  8    {
  9        ret = send(m_hSocket, buf + sent_bytes, buf_length - sent_bytes, 0);
-10        if (nRet == -1)
+10        if (ret == -1)
 11        {
 12            if (errno == EWOULDBLOCK)
 13            {
@@ -57,7 +57,7 @@
 19            else
 20                return false;
 21        }
-22        else if (nRet == 0)
+22        else if (ret == 0)
 23        {
 24            return false;
 25        }
