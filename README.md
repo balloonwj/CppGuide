@@ -216,8 +216,8 @@
 
 如果你觉得本仓库对你有帮助，想可以请小方喝杯咖啡，扫描下面的任一二维码捐赠即可。
 
-![](articles/wechat.jpeg)
-![](articles/zfb.jpeg)
+![](articles/wechat_pay.png)
+![](articles/zfb_pay.png)
 
 
 
