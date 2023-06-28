@@ -2,9 +2,11 @@
 
 > CppGuide仓库配有专门的微信维护和交流群，加微信easy_coder备注“cppguide仓库”拉你进群。
 
-在线阅读站点1：https://balloonwj.github.io/cpp-guide-web/
+<font style="color:red;font-size:15"> 在线阅读站点2：**https://cppguide.cn**</font>
 
-在线阅读站点2: http://balloonwj.gitee.io/cpp-guide-web/
+在线阅读站点2：https://balloonwj.github.io/cpp-guide-web/
+
+在线阅读站点3: http://balloonwj.gitee.io/cpp-guide-web/
 
 > **如需下载该站点源码用于自己搭建站点，可以在【高性能服务器开发】微信公众号后台回复关键字“站点下载”即可得到搭建本仓库的站点的全套源码。**
 
