@@ -2,7 +2,7 @@
 
 > CppGuide仓库配有专门的微信维护和交流群，加微信easy_coder备注“cppguide仓库”拉你进群。
 
-<font style="color:red;font-size:15"> 在线阅读站点2：**https://cppguide.cn**</font>
+<font style="color:red;font-size:15"> 在线阅读站点：**https://cppguide.cn**</font>
 
 在线阅读站点2：https://balloonwj.github.io/cpp-guide-web/
 
@@ -12,7 +12,7 @@
 
 
 
-![](articles/wechat.png)
+![](articles/cppguide-wechat.png)
 
 ## Part I
 * [C++必知必会的知识点](articles/C++必知必会的知识点/README.md)
