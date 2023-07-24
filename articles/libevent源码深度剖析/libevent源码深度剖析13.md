@@ -8,7 +8,7 @@
 
 以 2 个线程为例，做简单的场景分析。
 
-1 首先是创建并初始化线程 1 的 libevent 实例 base1 ，线程 1 的 libevent 实例 base2 ；
+1 首先是创建并初始化线程 1 的 libevent 实例 base1 ，线程 2 的 libevent 实例 base2 ；
 
 2 在 base1 上注册 **SIGALRM** 信号；在 base2 上注册 **SIGINT** 信号；
 
