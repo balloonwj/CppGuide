@@ -90,79 +90,161 @@
     * [10 开放一个TeamTalk测试服务器地址和几个测试账号](articles/TeamTalk源码解析/10开放一个TeamTalk测试服务器地址和几个测试账号.md)
     * [11 pc客户端源码分析](articles/TeamTalk源码解析/11pc客户端源码分析.md)
 
+[libevent源码深度剖析](articles/libevent源码深度剖析/index.md)
+* [libevent源码深度剖析01](articles/libevent源码深度剖析/libevent源码深度剖析01.md)
+* [libevent源码深度剖析02](articles/libevent源码深度剖析/libevent源码深度剖析02.md)
+* [libevent源码深度剖析03](articles/libevent源码深度剖析/libevent源码深度剖析03.md)
+* [libevent源码深度剖析04](articles/libevent源码深度剖析/libevent源码深度剖析04.md)
+* [libevent源码深度剖析05](articles/libevent源码深度剖析/libevent源码深度剖析05.md)
+* [libevent源码深度剖析06](articles/libevent源码深度剖析/libevent源码深度剖析06.md)
+* [libevent源码深度剖析07](articles/libevent源码深度剖析/libevent源码深度剖析07.md)
+* [libevent源码深度剖析08](articles/libevent源码深度剖析/libevent源码深度剖析08.md)
+* [libevent源码深度剖析09](articles/libevent源码深度剖析/libevent源码深度剖析09.md)
+* [libevent源码深度剖析10](articles/libevent源码深度剖析/libevent源码深度剖析10.md)
+* [libevent源码深度剖析11](articles/libevent源码深度剖析/libevent源码深度剖析11.md)
+* [libevent源码深度剖析12](articles/libevent源码深度剖析/libevent源码深度剖析12.md)
+* [libevent源码深度剖析13](articles/libevent源码深度剖析/libevent源码深度剖析13.md)
 
-* [libevent源码深度剖析](articles/libevent源码深度剖析/index.md)
-    * [libevent源码深度剖析01](articles/libevent源码深度剖析/libevent源码深度剖析01.md)
-    * [libevent源码深度剖析02](articles/libevent源码深度剖析/libevent源码深度剖析02.md)
-    * [libevent源码深度剖析03](articles/libevent源码深度剖析/libevent源码深度剖析03.md)
-    * [libevent源码深度剖析04](articles/libevent源码深度剖析/libevent源码深度剖析04.md)
-    * [libevent源码深度剖析05](articles/libevent源码深度剖析/libevent源码深度剖析05.md)
-    * [libevent源码深度剖析06](articles/libevent源码深度剖析/libevent源码深度剖析06.md)
-    * [libevent源码深度剖析07](articles/libevent源码深度剖析/libevent源码深度剖析07.md)
-    * [libevent源码深度剖析08](articles/libevent源码深度剖析/libevent源码深度剖析08.md)
-    * [libevent源码深度剖析09](articles/libevent源码深度剖析/libevent源码深度剖析09.md)
-    * [libevent源码深度剖析10](articles/libevent源码深度剖析/libevent源码深度剖析10.md)
-    * [libevent源码深度剖析11](articles/libevent源码深度剖析/libevent源码深度剖析11.md)
-    * [libevent源码深度剖析12](articles/libevent源码深度剖析/libevent源码深度剖析12.md)
-    * [libevent源码深度剖析13](articles/libevent源码深度剖析/libevent源码深度剖析13.md)
+[leveldb源码分析](articles/leveldb源码分析/README.md)
+* [leveldb源码分析1](articles/leveldb源码分析/leveldb源码分析1.md)
+* [leveldb源码分析2](articles/leveldb源码分析/leveldb源码分析2.md)
+* [leveldb源码分析3](articles/leveldb源码分析/leveldb源码分析3.md)
+* [leveldb源码分析4](articles/leveldb源码分析/leveldb源码分析4.md)
+* [leveldb源码分析5](articles/leveldb源码分析/leveldb源码分析5.md)
+* [leveldb源码分析6](articles/leveldb源码分析/leveldb源码分析6.md)
+* [leveldb源码分析7](articles/leveldb源码分析/leveldb源码分析7.md)
+* [leveldb源码分析8](articles/leveldb源码分析/leveldb源码分析8.md)
+* [leveldb源码分析9](articles/leveldb源码分析/leveldb源码分析9.md)
+* [leveldb源码分析10](articles/leveldb源码分析/leveldb源码分析10.md)
+* [leveldb源码分析11](articles/leveldb源码分析/leveldb源码分析11.md)
+* [leveldb源码分析12](articles/leveldb源码分析/leveldb源码分析12.md)
+* [leveldb源码分析13](articles/leveldb源码分析/leveldb源码分析13.md)
+* [leveldb源码分析14](articles/leveldb源码分析/leveldb源码分析14.md)
+* [leveldb源码分析15](articles/leveldb源码分析/leveldb源码分析15.md)
+* [leveldb源码分析16](articles/leveldb源码分析/leveldb源码分析16.md)
+* [leveldb源码分析17](articles/leveldb源码分析/leveldb源码分析17.md)
+* [leveldb源码分析18](articles/leveldb源码分析/leveldb源码分析18.md)
+* [leveldb源码分析19](articles/leveldb源码分析/leveldb源码分析19.md)
+* [leveldb源码分析20](articles/leveldb源码分析/leveldb源码分析20.md)
+* [leveldb源码分析21](articles/leveldb源码分析/leveldb源码分析21.md)
+* [leveldb源码分析22](articles/leveldb源码分析/leveldb源码分析22.md)
 
-* [leveldb源码分析](articles/leveldb源码分析/README.md)
-    * [leveldb源码分析1](articles/leveldb源码分析/leveldb源码分析1.md)
-    * [leveldb源码分析2](articles/leveldb源码分析/leveldb源码分析2.md)
-    * [leveldb源码分析3](articles/leveldb源码分析/leveldb源码分析3.md)
-    * [leveldb源码分析4](articles/leveldb源码分析/leveldb源码分析4.md)
-    * [leveldb源码分析5](articles/leveldb源码分析/leveldb源码分析5.md)
-    * [leveldb源码分析6](articles/leveldb源码分析/leveldb源码分析6.md)
-    * [leveldb源码分析7](articles/leveldb源码分析/leveldb源码分析7.md)
-    * [leveldb源码分析8](articles/leveldb源码分析/leveldb源码分析8.md)
-    * [leveldb源码分析9](articles/leveldb源码分析/leveldb源码分析9.md)
-    * [leveldb源码分析10](articles/leveldb源码分析/leveldb源码分析10.md)
-    * [leveldb源码分析11](articles/leveldb源码分析/leveldb源码分析11.md)
-    * [leveldb源码分析12](articles/leveldb源码分析/leveldb源码分析12.md)
-    * [leveldb源码分析13](articles/leveldb源码分析/leveldb源码分析13.md)
-    * [leveldb源码分析14](articles/leveldb源码分析/leveldb源码分析14.md)
-    * [leveldb源码分析15](articles/leveldb源码分析/leveldb源码分析15.md)
-    * [leveldb源码分析16](articles/leveldb源码分析/leveldb源码分析16.md)
-    * [leveldb源码分析17](articles/leveldb源码分析/leveldb源码分析17.md)
-    * [leveldb源码分析18](articles/leveldb源码分析/leveldb源码分析18.md)
-    * [leveldb源码分析19](articles/leveldb源码分析/leveldb源码分析19.md)
-    * [leveldb源码分析20](articles/leveldb源码分析/leveldb源码分析20.md)
-    * [leveldb源码分析21](articles/leveldb源码分析/leveldb源码分析21.md)
-    * [leveldb源码分析22](articles/leveldb源码分析/leveldb源码分析22.md)
+[Memcached源码分析](articles/Memcached源码分析/README.md)
+* [00 服务器资源调整](articles/Memcached源码分析/00服务器资源调整.md)
+* [01 初始化参数解析](articles/Memcached源码分析/01初始化参数解析.md)
+* [02 网络监听的建立](articles/Memcached源码分析/02网络监听的建立.md)
+* [03 网络连接建立](articles/Memcached源码分析/03网络连接建立.md)
+* [04 内存初始化](articles/Memcached源码分析/04内存初始化.md)
+* [05 资源初始化](articles/Memcached源码分析/05资源初始化.md)
+* [06 get过程](articles/Memcached源码分析/06get过程.md)
+* [07 cas属性](articles/Memcached源码分析/07cas属性.md)
+* [08 内存池](articles/Memcached源码分析/08内存池.md)
+* [09 连接队列](articles/Memcached源码分析/09连接队列.md)
+* [10 Hash表操作](articles/Memcached源码分析/10Hash表操作.md)
+* [12 set操作](articles/Memcached源码分析/12set操作.md)
+* [13 do_item_alloc操作](articles/Memcached源码分析/13do_item_alloc操作.md)
+* [14 item结构](articles/Memcached源码分析/14item结构.md)
+* [15 Hash表扩容](articles/Memcached源码分析/15Hash表扩容.md)
+* [16 线程交互](articles/Memcached源码分析/16线程交互.md)
+* [17 状态机](articles/Memcached源码分析/17状态机.md)
 
-* [Memcached源码分析](articles/Memcached源码分析/README.md)
-    * [00 服务器资源调整](articles/Memcached源码分析/00服务器资源调整.md)
-    * [01 初始化参数解析](articles/Memcached源码分析/01初始化参数解析.md)
-    * [02 网络监听的建立](articles/Memcached源码分析/02网络监听的建立.md)
-    * [03 网络连接建立](articles/Memcached源码分析/03网络连接建立.md)
-    * [04 内存初始化](articles/Memcached源码分析/04内存初始化.md)
-    * [05 资源初始化](articles/Memcached源码分析/05资源初始化.md)
-    * [06 get过程](articles/Memcached源码分析/06get过程.md)
-    * [07 cas属性](articles/Memcached源码分析/07cas属性.md)
-    * [08 内存池](articles/Memcached源码分析/08内存池.md)
-    * [09 连接队列](articles/Memcached源码分析/09连接队列.md)
-    * [10 Hash表操作](articles/Memcached源码分析/10Hash表操作.md)
-    * [12 set操作](articles/Memcached源码分析/12set操作.md)
-    * [13 do_item_alloc操作](articles/Memcached源码分析/13do_item_alloc操作.md)
-    * [14 item结构](articles/Memcached源码分析/14item结构.md)
-    * [15 Hash表扩容](articles/Memcached源码分析/15Hash表扩容.md)
-    * [16 线程交互](articles/Memcached源码分析/16线程交互.md)
-    * [17 状态机](articles/Memcached源码分析/17状态机.md)
-    
-* [游戏开发专题](articles/游戏开发专题/README.md)
-    * [1 游戏服务器开发的基本体系与服务器端开发的一些建议](articles/游戏开发专题/1游戏服务器开发的基本体系与服务器端开发的一些建议.md)
-    * [2 网络游戏服务器开发框架设计介绍](articles/游戏开发专题/2网络游戏服务器开发框架设计介绍.md)
-    * [3 游戏后端开发需要掌握的知识](articles/游戏开发专题/3游戏后端开发需要掌握的知识.md)
-    * [4 关于游戏服务端架构的整理](articles/游戏开发专题/4关于游戏服务端架构的整理.md)
-    * [5 各类游戏对应的服务端架构](articles/游戏开发专题/5各类游戏对应的服务端架构.md)
-    * [6 从腾讯QQgame高性能服务器集群架构看“分而治之”与“自治”等分布式架构设计原则](articles/游戏开发专题/6从腾讯QQgame高性能服务器集群架构看“分而治之”与“自治”等分布式架构设计原则.md)
-    * [7 QQ游戏百万人同时在线服务器架构实现](articles/游戏开发专题/7QQ游戏百万人同时在线服务器架构实现.md)
-    * [8 大型多人在线游戏服务器架构设计](articles/游戏开发专题/8大型多人在线游戏服务器架构设计.md)
-    * [9 百万用户级游戏服务器架构设计](articles/游戏开发专题/9百万用户级游戏服务器架构设计.md)
-    * [10 十万在线的WebGame的数据库设计思路](articles/游戏开发专题/10十万在线的WebGame的数据库设计思路.md)
-    * [11 一种高性能网络游戏服务器架构设计](articles/游戏开发专题/11一种高性能网络游戏服务器架构设计.md)
-    * [12 经典游戏服务器端架构概述](articles/游戏开发专题/12经典游戏服务器端架构概述.md)
-    * [13 游戏跨服架构进化之路](articles/游戏开发专题/13游戏跨服架构进化之路.md)
+[游戏开发专题](articles/游戏开发专题/README.md)
+* [1 游戏服务器开发的基本体系与服务器端开发的一些建议](articles/游戏开发专题/1游戏服务器开发的基本体系与服务器端开发的一些建议.md)
+* [2 网络游戏服务器开发框架设计介绍](articles/游戏开发专题/2网络游戏服务器开发框架设计介绍.md)
+* [3 游戏后端开发需要掌握的知识](articles/游戏开发专题/3游戏后端开发需要掌握的知识.md)
+* [4 关于游戏服务端架构的整理](articles/游戏开发专题/4关于游戏服务端架构的整理.md)
+* [5 各类游戏对应的服务端架构](articles/游戏开发专题/5各类游戏对应的服务端架构.md)
+* [6 从腾讯QQgame高性能服务器集群架构看“分而治之”与“自治”等分布式架构设计原则](articles/游戏开发专题/6从腾讯QQgame高性能服务器集群架构看“分而治之”与“自治”等分布式架构设计原则.md)
+* [7 QQ游戏百万人同时在线服务器架构实现](articles/游戏开发专题/7QQ游戏百万人同时在线服务器架构实现.md)
+* [8 大型多人在线游戏服务器架构设计](articles/游戏开发专题/8大型多人在线游戏服务器架构设计.md)
+* [9 百万用户级游戏服务器架构设计](articles/游戏开发专题/9百万用户级游戏服务器架构设计.md)
+* [10 十万在线的WebGame的数据库设计思路](articles/游戏开发专题/10十万在线的WebGame的数据库设计思路.md)
+* [11 一种高性能网络游戏服务器架构设计](articles/游戏开发专题/11一种高性能网络游戏服务器架构设计.md)
+* [12 经典游戏服务器端架构概述](articles/游戏开发专题/12经典游戏服务器端架构概述.md)
+* [13 游戏跨服架构进化之路](articles/游戏开发专题/13游戏跨服架构进化之路.md)
+
+Linux内核专题——心中的内核
+
+- [0. 专栏说明](https://cppguide.cn/pages/the-kernel-in-the-mind-contents/)
+- [1. 内核不是进程，而是系统](https://cppguide.cn/pages/the-kernel-in-the-mind-ch01/)
+- [2. 为进程服务：内核的首要职责](https://cppguide.cn/pages/the-kernel-in-the-mind-ch02/)
+- [3. 代码之前的概念图](https://cppguide.cn/pages/the-kernel-in-the-mind-ch03/)
+
+- [4. 作为分层系统的内核：虚拟、映射、隔离、控制](https://cppguide.cn/pages/the-kernel-in-the-mind-ch04/)
+
+- [5. 单体形式，协同行为：真正的内核模型](https://cppguide.cn/pages/the-kernel-in-the-mind-ch05/)
+
+- [6. 内核对象揭示设计 —— 函数仅执行设计](https://cppguide.cn/pages/the-kernel-in-the-mind-ch06/)
+
+- [7. 无冲突的代码 —— 内核如何在并发风暴中保持安全](https://cppguide.cn/pages/the-kernel-in-the-mind-ch07/)
+
+- [8. 间接的力量 —— 一个内核如何为所有进程服务](https://cppguide.cn/pages/the-kernel-in-the-mind-ch08/)
+
+- [9. 内核的设备模型：硬件如何成为 /dev](https://cppguide.cn/pages/the-kernel-in-the-mind-ch09/)
+
+- [10. 内核如何看待内存的：不是映射，而是责任](https://cppguide.cn/pages/the-kernel-in-the-mind-ch10/)
+
+- [11. 内存不是一个地方，而是一个系统](https://cppguide.cn/pages/the-kernel-in-the-mind-ch11/)
+
+- [12. 内核始终存在 —— 你知道它在哪里吗？](https://cppguide.cn/pages/the-kernel-in-the-mind-ch12/)
+
+- [13. 不只是代码执行：内核实际执行的内容](https://cppguide.cn/pages/the-kernel-in-the-mind-ch13/)
+
+- [14. boot结束之处：内核开始之处](https://cppguide.cn/pages/the-kernel-in-the-mind-ch14/)
+
+- [15. 从 vmlinuz 到 eBPF：Linux 内核内部实际运行的内容](https://cppguide.cn/pages/the-kernel-in-the-mind-ch15/)
+
+- [16. 无状态 CPU，有状态内核：执行如何被协调](https://cppguide.cn/pages/the-kernel-in-the-mind-ch16/)
+
+- [17. 内核构建的内容 —— 逐层构建](https://cppguide.cn/pages/the-kernel-in-the-mind-ch17/)
+
+- [18. 内核执行路径：在哪里运行，以及为什么重要](https://cppguide.cn/pages/the-kernel-in-the-mind-ch18/)
+
+- [19. 追踪执行的模板](https://cppguide.cn/pages/the-kernel-in-the-mind-ch19/)
+
+- [20. 中断不是干扰，而是设计](https://cppguide.cn/pages/the-kernel-in-the-mind-ch20/)
+
+- [21. 执行是逻辑的，位置是物理的](https://cppguide.cn/pages/the-kernel-in-the-mind-ch21/)
+
+- [22. 不仅仅是一段代码：每个内核路径内部的过程](https://cppguide.cn/pages/the-kernel-in-the-mind-ch22/)
+
+- [23. 内核如何自我通信 —— 内部通信工具](https://cppguide.cn/pages/the-kernel-in-the-mind-ch23/)
+
+- [24. 内核模块彼此了解：仅通过导出的符号](https://cppguide.cn/pages/the-kernel-in-the-mind-ch24/)
+
+- [25. 搭建组件之间的桥梁](https://cppguide.cn/pages/the-kernel-in-the-mind-ch25/)
+
+- [26. libc 之外：用户空间如何真正与内核对话](https://cppguide.cn/pages/the-kernel-in-the-mind-ch26/)
+
+- [27. CPU 不移动数据 —— 但没有 CPU，什么都无法移动](https://cppguide.cn/pages/the-kernel-in-the-mind-ch27/)
+
+- [28. 时间与精度：内核眼中的 CPU 执行](https://cppguide.cn/pages/the-kernel-in-the-mind-ch28/)
+
+- [29. 内核在虚拟化中的角色：理解 KVM](https://cppguide.cn/pages/the-kernel-in-the-mind-ch29/)
+
+- [30. 两个世界，一个 CPU：虚拟化中的 root 操作和非 root 操作](https://cppguide.cn/pages/the-kernel-in-the-mind-ch30/)
+
+- [31. 内核与 VirtIO：无需模拟的网络驱动程序](https://cppguide.cn/pages/the-kernel-in-the-mind-ch31/)
+
+- [32. 一切仍由操作系统掌控](https://cppguide.cn/pages/the-kernel-in-the-mind-ch32/)
+
+- [33. 对齐即理解](https://cppguide.cn/pages/the-kernel-in-the-mind-ch33/)
+
+- [34. 如果内核不是由 Linus 创建和维护的，会怎样？](https://cppguide.cn/pages/the-kernel-in-the-mind-ch34/)
+
+- [35. 配置并非定制，而是内核的身份标识](https://cppguide.cn/pages/the-kernel-in-the-mind-ch35/)
+
+- [36. 内存生命周期和塑造它的角色](https://cppguide.cn/pages/the-kernel-in-the-mind-ch36/)
+
+- [37. 中断如何在不变中演变](https://cppguide.cn/pages/the-kernel-in-the-mind-ch37/)
+
+- [38. 并发之外的同步](https://cppguide.cn/pages/the-kernel-in-the-mind-ch38/)
+
+- [39. 这从来不是关于炒作，而是关于硬件](https://cppguide.cn/pages/the-kernel-in-the-mind-ch39/)
+
+- [40. 从意图到 I/O：内核如何看待文件、磁盘和设备](https://cppguide.cn/pages/the-kernel-in-the-mind-ch40/)
+
+- [41. 心中的内核 —— 效率至上而非历史遗留原因：为什么内核仍用 C 语言开发](https://cppguide.cn/pages/the-kernel-in-the-mind-ch41/)
 
 ## Part IV
 * [程序员面试题精讲](articles/程序员面试题精讲/README.md)
